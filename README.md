@@ -21,6 +21,7 @@ Kubernetes deployment, and continuous delivery using Argo CD.
 
 ## 🔄 Pipeline Flow
 
+```text
 GitHub
    ↓
 Jenkins
